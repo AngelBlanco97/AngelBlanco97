@@ -1,8 +1,8 @@
 <h2> Hey there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">! I'm Angel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me && Connect with me</h3>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/angelblanco97/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://angelblanco97.github.io/PersonalWebsite/)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/angelblanco97/)
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">(https://angelblanco97.github.io/PersonalWebsite/)
 
 - 🤔 &nbsp; Exploring new technologies and developing web pages.
 - 🎓 &nbsp; Studying Multiplatform Dev at U-tad University.
