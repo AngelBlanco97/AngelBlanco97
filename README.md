@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me && Connect with me</h3>
 <p align="center">
 <a href="https://github.com/AngelBlanco97/PersonalWebsite"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AngelBlanco97%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AngelBlanco97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AngelBlanco97%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:angelblancotrabajo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-angelblancotrabajo@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 - 🤔 &nbsp; Exploring new technologies and developing web pages.
