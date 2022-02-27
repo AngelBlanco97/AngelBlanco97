@@ -47,10 +47,21 @@
 
 <br/>
 
-<a href="https://github.com/AngelBlanco97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelBlanco97&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBlanco97&theme=buefy&layout=compact" />
-</a>
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelBlanco97&show_icons=true&locale=es" alt="AngelBlanco97" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelBlanco97&" alt="AngelBlanco97" />
+    </td>
+   </tr>
+</table>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AngelBlanco97&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelBlanco97&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
+</p>
 
 <br/>
 
