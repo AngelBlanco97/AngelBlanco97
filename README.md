@@ -1,4 +1,4 @@
-<h2> Hey there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">! I'm Angel.</h2>
+<h2> Hey there I'm Angel.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me && Connect with me</h3>
 <p align="center">
