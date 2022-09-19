@@ -7,7 +7,7 @@
 <a href="mailto:angelblancotrabajo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-angelblancotrabajo@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 - 🤔 &nbsp; Exploring new technologies and developing web pages.
-- 🎓 &nbsp; Studying Multiplatform Dev at U-tad University.
+- 🖥 &nbsp; Working at Sitelicon Ecommerce Services.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
