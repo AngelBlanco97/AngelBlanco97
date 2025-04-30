@@ -1,10 +1,8 @@
 <h2> Hey there I'm Angel.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me && Connect with me</h3>
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
 <p align="center">
-<a href="https://github.com/AngelBlanco97/PersonalWebsite"></a>
 <a href="https://www.linkedin.com/in/AngelBlanco97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AngelBlanco97%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:angelblancotrabajo@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-angelblancotrabajo@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 - 🤔 &nbsp; Exploring new technologies and developing web pages.
 - 🖥 &nbsp; Working at Sitelicon Ecommerce Services.
@@ -48,26 +46,4 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-
-<br/>
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelBlanco97&show_icons=true&locale=es" alt="AngelBlanco97" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelBlanco97&" alt="AngelBlanco97" />
-    </td>
-   </tr>
-</table>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AngelBlanco97&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelBlanco97&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
-</p>
-
-<br/>
-
-
 ⭐️ From [AngelBlanco97](https://github.com/AngelBlanco97)
